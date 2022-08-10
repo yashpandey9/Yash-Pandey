@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+hr{
+    border: dotted #aec7c7 7px;
+    border-bottom: none;
+    width:4%;
+    margin: 100px auto;
+}
+
+h1{ padding-top: 120px;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    margin-top: 0%;
+    color:  #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+    color:  #66BFBF;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:  #11999E;  
+}
+
+.top-container{
+  margin-top: 0px;
+  margin-bottom: 0px ;
+  background-color: #E4F9F5;
+  position: relative;
+  text-align: center;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: absolute; right: 320px; top: 40px;
+}
+
+
+.bottom-cloud{
+    position: absolute; left: 250px; top: 300px;
+}
+
+.circular{
+    border-radius: 100%;
+    float: none;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.profile{
+    background-color: white;
+}
+
+.middle-container{
+    margin-top: 0px;
+    background-color:white;
+    text-align: center;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 20px;
+    line-height: 3;
+    margin-top: 100px;
+}
+
+.copyright{
+    color:#EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px opx;
+}
+
+.IoT{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.coding{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.arduino{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.web-design{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.web-d{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.css{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.html{
+    width:20%;
+    float: left;
+    margin-right: 30px;
+}
+.Badminton{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+a{
+    color: #11999E;
+    word-spacing: 10px;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+a:hover{
+    color:#EAF6F6;
+}
+
+.skill-row{
+    margin: 100px auto 100px auto;
+}
+
+.skills{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height:2;
+    display: flexbox; 
+}
+
+.intro{
+    width:35%;
+    margin: 0px auto 100px auto;
+}
+
+.contact-me{
+    margin: 100px auto 100px auto;
+    line-height: 3;
+    width:40%;
+}
+
+p{
+    line-height: 2;
+}
+
+.btn{
+    background-color: #11999E;
+    border: none;
+    color: white;
+    padding: 5px 16px 5px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 12px;
+    font-family: 'Montserrat', sans-serif;
+    transition-duration: 0.4s;
+}
+
+.btn:hover {
+    background-color: #042d46;
+    color: white;
+  }
